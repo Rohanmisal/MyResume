@@ -23,8 +23,27 @@ const Middle = () =>{
                         <tr>
                             <th className="border-solid border-[1px] border-[#dddddd] text-left p-2">Skill</th>
                             <th className="border-solid border-[1px] border-[#dddddd] text-left p-2">Level of Skills</th>
-
                         </tr>
+                        <tr>
+                            <th className="bg-[#dddddd] border-solid border-[1px] border-[#dddddd] text-left p-2">React.js</th>
+                            <th className="bg-[#dddddd] border-solid border-[1px] border-[#dddddd] text-left p-2">Advanced</th>
+                        </tr>
+                        <tr>
+                            <th className="border-solid border-[1px] border-[#dddddd] text-left p-2">JavaScript</th>
+                            <th className="border-solid border-[1px] border-[#dddddd] text-left p-2">Advanced</th>
+                        </tr>
+                        <tr>
+                            <th className="bg-[#dddddd] border-solid border-[1px] border-[#dddddd] text-left p-2">Css</th>
+                            <th className="bg-[#dddddd] border-solid border-[1px] border-[#dddddd] text-left p-2">Advanced</th>
+                        </tr>
+                        <tr>
+                            <th className="border-solid border-[1px] border-[#dddddd] text-left p-2">tailwindCss</th>
+                            <th className="border-solid border-[1px] border-[#dddddd] text-left p-2">Advanced</th>
+                        </tr>
+                        <tr>
+                            <th className="bg-[#dddddd]border-solid border-[1px] border-[#dddddd] text-left p-2">Html</th>
+                            <th className="bg-[#dddddd] border-solid border-[1px] border-[#dddddd] text-left p-2">Advanced</th>
+                        </tr>                        
                     </tbody>
                 </table>
             </div>
